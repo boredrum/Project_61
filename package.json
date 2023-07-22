@@ -1,0 +1,18 @@
+{
+  "name": "hmwork_61",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
